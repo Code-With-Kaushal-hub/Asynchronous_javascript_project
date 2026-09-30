@@ -1,0 +1,22 @@
+*{
+   margin:0px;
+   padding:0px;
+   box-sizing: border-box;
+   
+}
+body{
+   background-color: antiquewhite;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+.container{
+   background-color: rgb(186, 111, 13);
+   border:2px solid rgb(75, 16, 16);
+}
+.but{
+   padding:2px;
+   background-color: blue;
+   color:white;
+   font-size: 20px;
+}
